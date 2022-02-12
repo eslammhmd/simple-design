@@ -1,3 +1,3 @@
 # simple-design
-simple page bu using : html5 , css and sass.
-##note: if you liked this give me stars
+simple page buy using : html5 , css and sass.
+##note: if you liked this give put stars
